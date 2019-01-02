@@ -1,0 +1,11 @@
+{
+  "name": "OHA Fightbot",
+  "version": "1.0.0",
+  "description": "Does the pow pow.",
+  "main": "bot.js",
+  "author": "Gecchan",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.1.0"
+  }
+}
